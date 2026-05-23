@@ -1,0 +1,6 @@
+{
+  "name": "X3M Player",
+  "description": "Android TV IPTV player with Xtream API, M3U upload and QR code support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
